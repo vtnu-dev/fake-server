@@ -1,3 +1,19 @@
 {
-  "todos": []
+  "todos": [
+   {
+      "text": "1",
+      "id": "688611b0-4734-4ef4-b05c-6b56cca4375a",
+      "isCompleted": false
+    },
+    {
+      "text": "2",
+      "id": "0deaff4f-998d-4147-9759-be3c67bbeddb",
+      "isCompleted": false
+    },
+    {
+      "text": "3",
+      "id": "d329184f-ea2e-4f67-8435-932140b41bf3",
+      "isCompleted": false
+    }
+  ]
 }
